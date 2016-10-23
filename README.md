@@ -1,1 +1,1 @@
-# meteor-simple-todos
+# My first meteor project
